@@ -35,6 +35,7 @@ export default {
 	components: {
 		GameOptions
 	},
+	
 	data() {
 		return {
 			isPlayed: false,
