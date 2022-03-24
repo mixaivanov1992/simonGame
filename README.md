@@ -1,4 +1,4 @@
-# second
+# simonGame
 
 ## Project setup
 ```
